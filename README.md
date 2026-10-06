@@ -312,17 +312,17 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Networking
 
-- [x] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [ ] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [x] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [ ] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [🕵️ TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
 - [x] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
 
-- [x] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [x] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [ ] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [🕵️ TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -350,11 +350,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
-- [x] [🕵️ TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
+- [ ] [🕵️ TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
 - [ ] [🕵️ TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-- [x] [🕵️ TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [ ] [🕵️ TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
 - [ ] [🕵️ TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
@@ -378,7 +378,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [x] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [ ] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [🕵️ TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
@@ -386,7 +386,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
-- [x] [🕵️ TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
+- [ ] [🕵️ TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
 
 ## Steganography
 
@@ -404,13 +404,13 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Web
 
-- [x] [🕵️ TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
+- [ ] [🕵️ TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
   
-- [x] [🕵️ TryHackMe | NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial)
+- [ ] [🕵️ TryHackMe | NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial)
   
 - [ ] [🕵️ TryHackMe | Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)
   
-- [x] [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
+- [ ] [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
   
 - [ ] [🕵️ TryHackMe | CSRF](https://tryhackme.com/room/csrfV2)
   
@@ -422,7 +422,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
 
-- [x] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
+- [ ] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
 - [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
@@ -440,7 +440,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
 
-- [x] [🕵️ TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
+- [ ] [🕵️ TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
 
 - [ ] [🕵️ TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
@@ -476,7 +476,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Forensics
 
-- [ ] [🕵️ TryHackMe | Linux Incident Surface](https://tryhackme.com/room/linuxincidentsurface)
+- [x] [🕵️ TryHackMe | Linux Incident Surface](https://tryhackme.com/room/linuxincidentsurface)
   
 - [ ] [🕵️ TryHackMe | IR Playbooks](https://tryhackme.com/room/irplaybooks)
   
